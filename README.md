@@ -86,4 +86,4 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Conclusion
 
-*(Write your own.)*
+sucessful calculation of reflex klystron
